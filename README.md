@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @mrmarvelworld
+- 👀 I’m interested in mobile app development, backend and databases and Internet of Things.
+- 🌱 I’m currently learning flutter, Django rest framework
+- My best programming language is JavaScript
+- While my best programming framework is Express.js becuase of it's flexibility in creating API
+- 💞️ I’m looking to collaborate on exciting web and mobile applications
+- 📞 You can reach me on my phone at +234-9155480561
+- 📨 Or send an email to ikpmarvel@gmail.com
+- You could also chat me up on WhatsApp on 09155480561
