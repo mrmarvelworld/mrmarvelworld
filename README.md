@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrmarvelworld
 - 👀 I’m interested in mobile app development, backend and databases and Internet of Things.
-- 🌱 I’m currently learning flutter, Django rest framework
+- 🌱 I’m a flutter, Django rest framework pro
 - My best programming language is JavaScript
 - While my best programming framework is Express.js becuase of it's flexibility in creating API
 - 💞️ I’m looking to collaborate on exciting web and mobile applications
